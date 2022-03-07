@@ -1,4 +1,4 @@
-const newYear = new Date(2022,1,1,0,0,0,0).getTime()
+const newYear = new Date(2023,1,1,0,0,0,0).getTime()
 const dayspan = document.querySelector(".daySpan")
 const hourSpan = document.querySelector(".hoursSpan")
 const minSpan = document.querySelector(".minSpan")
